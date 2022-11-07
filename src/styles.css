@@ -1,5 +1,6 @@
 .container {
   position: relative;
+  display: flex;
   width: 1421px;
   height: 426px;
   background: #ffffff;
@@ -59,7 +60,7 @@
   width: 127px;
   height: 39px;
   top: 50px;
-  left: 1420px;
+  left: 1419px;
   font-style: normal;
   font-weight: 300;
   font-size: 15px;
